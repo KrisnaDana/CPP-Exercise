@@ -10,7 +10,7 @@ int main(){
     float Floating = 0.1;
     double Double = 0.000000001;
     void function();
-    wchar_t WideCharacter = L'A';
+    wchar_t WideCharacter = L'A'; //using more memory than char
 
     cout << Integer << "\n" << Character << "\n" << Boolean << "\n" << Floating << "\n" << Double << "\n" << WideCharacter << endl;
 
