@@ -23,7 +23,7 @@ Source: https://geekonpeak.com/programming/cpp-roadmap/
 - Operators in C
 - Unary operators in C/C++
 - Pre-increment (or pre-decrement) With Reference to L-value in C++
-- new and delete Operators in C++ For Dynamic Memory
+- New and delete Operators in C++ For Dynamic Memory
 
 ### Arrays and Vectors
 
