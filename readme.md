@@ -30,7 +30,6 @@ Source: https://geekonpeak.com/programming/cpp-roadmap/
 - C++ Arrays
 - Multidimensional Arrays
 - C++ Vectors
-- Arrays vs. Vectors
 
 ### Conditional Statements and Loops
 
