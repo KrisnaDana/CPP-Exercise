@@ -43,7 +43,6 @@ Source: https://geekonpeak.com/programming/cpp-roadmap/
 ### Functions
 
 - C++ Functions
-- C++ Function Types
 - C++ Function Overloading
 - C++ Default Argument
 - C++ Storage Class
