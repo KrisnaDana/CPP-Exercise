@@ -3,8 +3,6 @@
 using namespace std;
 
 void display(char = '*', int = 10);
-// or this void display(char = '*', int = 10);
-
 
 int main(){
 
