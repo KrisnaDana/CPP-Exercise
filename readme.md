@@ -55,8 +55,6 @@ Source: https://geekonpeak.com/programming/cpp-roadmap/
 - Raw String Literal in C++
 - Array of Strings in C++ – 5 Different Ways to Create
 - Tokenizing a string in C++
-- strrchr() function in C/C++
-- stringstream in C++ and its Applications
 - Pointers in C and C++ | Set 1 (Introduction, Arithmetic, and Array)
 - Opaque Pointer
 - References in C++
